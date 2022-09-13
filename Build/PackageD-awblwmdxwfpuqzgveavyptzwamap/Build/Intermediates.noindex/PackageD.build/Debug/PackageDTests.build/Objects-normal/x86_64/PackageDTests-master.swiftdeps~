@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "095ffec54241c24124a56f88804020600ab4b23df89ec3723bb6cbb7bb43ff22"
+build_start_time: [1663100157, 467869997]
+build_end_time: [1663100180, 273828029]
+inputs:
+  "/Users/fkaanoz/Desktop/dev/PackageD/Tests/PackageDTests/PackageDTests.swift": [1663099368, 410260200]

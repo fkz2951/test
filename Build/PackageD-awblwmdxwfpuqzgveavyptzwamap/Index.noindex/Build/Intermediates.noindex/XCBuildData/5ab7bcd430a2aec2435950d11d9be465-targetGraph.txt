@@ -1,0 +1,9 @@
+Target dependency graph (5 targets)
+PackageD in PackageD, no dependencies
+PackageD in PackageD, depends on:
+PackageD in PackageD (explicit)
+PackageDTests in PackageD, depends on:
+PackageD in PackageD (explicit)
+Algorithms in swift-algorithms, no dependencies
+Algorithms in swift-algorithms, depends on:
+Algorithms in swift-algorithms (explicit)

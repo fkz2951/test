@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "4bf0876d33afd443adb92d1cbf3d87b5dc51dfc010518c09be9e0ec700d71253"
+build_start_time: [1663105176, 922936916]
+build_end_time: [1663105176, 990549087]
+inputs:
+  "/Users/fkaanoz/Desktop/dev/PackageD/Tests/PackageDTests/PackageDTests.swift": !private [1663099368, 410260200]

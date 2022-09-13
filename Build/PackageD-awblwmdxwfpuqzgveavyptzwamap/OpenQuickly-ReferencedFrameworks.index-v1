@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>XCTest</string>
+	<string>PackageD</string>
+	<string>Glibc</string>
+	<string>RealTests</string>
+	<string>Darwin</string>
+	<string>Algorithms</string>
+	<string>RealModule</string>
+	<string>Numerics</string>
+	<string>ComplexModule</string>
+	<string>ComplexTests</string>
+	<string>PackageDescription</string>
+</array>
+</plist>
