@@ -1,4 +1,0 @@
-module PackageD {
-header "PackageD-Swift.h"
-export *
-}

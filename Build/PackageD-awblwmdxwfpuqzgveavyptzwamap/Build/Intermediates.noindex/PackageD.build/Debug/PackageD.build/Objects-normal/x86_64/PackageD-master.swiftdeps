@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
-options: "7690c24ea3bc3cfe9cbe06d67132e039b058bb31b7e33386fe70a129bdbf797b"
-build_start_time: [1663105176, 365253925]
-build_end_time: [1663105199, 107041835]
-inputs:
-  "/Users/fkaanoz/Desktop/dev/PackageD/Sources/PackageD/PackageD.swift": [1663099368, 409734249]
